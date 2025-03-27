@@ -4,18 +4,19 @@
     "url": "https://pickletime.app",
     "icon": "https://icons.duckduckgo.com/ip3/pickletime.app.ico",
     "slug": "pickle-time",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 739,
-    "timeDay": 620,
-    "timeWeek": 450,
-    "timeMonth": 701,
-    "timeYear": 739,
+    "time": 734,
+    "timeDay": 561,
+    "timeWeek": 472,
+    "timeMonth": 695,
+    "timeYear": 734,
     "dailyMinutesDown": {
+      "2025-03-27": 0,
       "2025-03-20": 23
     }
   }
